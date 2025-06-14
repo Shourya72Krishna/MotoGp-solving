@@ -31,6 +31,10 @@ To build a machine learning model that accurately predicts `Lap_Time_Seconds` us
 - ✅ **Kaggle Public Leaderboard RMSE:** `0.62939`
 - The model achieves a strong balance between performance and generalization.
 
+- The dataset and problem statement are available from the official Kaggle competition:  
+🔗 [Burnout Datathon – IEEE CSMUJ](https://www.kaggle.com/competitions/burnout-datathon-ieeecsmuj)
+
+
 ## 🔗 Notebook Link
 
 > 📎 [View Full Kaggle Notebook](https://www.kaggle.com/your-kaggle-username/your-notebook-slug)
